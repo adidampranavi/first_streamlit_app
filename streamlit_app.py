@@ -1,3 +1,4 @@
 import streamlit
 
-streamlit.title('First')
+streamlit.title('Title')
+streamlit.text('1st text')
